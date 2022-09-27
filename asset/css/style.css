@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background-image: url("/6 - Excite@Home/images/background.gif");
+    background-image: url("/asset/images/background.gif");
     background-size: contain;
     /* position: relative; */
 }
@@ -21,6 +21,7 @@ body {
     margin-top: 50px;
     color:#fff;
     background-color: #000;
+    padding-bottom: 20px;
     /* position: relative;
     right: 0;
     top: 0; */
