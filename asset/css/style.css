@@ -10,9 +10,9 @@ html {
 }
 
 body {
-    background-image: url("/asset/images/background.gif");
+    background-image: url("../images/background.gif");
     background-size: contain;
-    /* position: relative; */
+  
 }
 
 #main {
